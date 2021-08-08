@@ -1,0 +1,43 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+9,Saldanha,ZA,51.85,overcast clouds,-33.0117,17.9442,Blue Bay Lodge
+16,Hermanus,ZA,52.81,overcast clouds,-34.4187,19.2345,Misty Waves Boutique Hotel
+25,Prieska,ZA,55.47,clear sky,-29.6641,22.7474,Avenue GuestHouse
+35,Balezino,RU,53.49,overcast clouds,57.9796,53.0106,Dom Otdykha Lokomotivnykh Brigad
+47,Ambatofinandrahana,MG,52.23,clear sky,-20.55,46.8,TATAMO
+49,Ancud,CL,53.42,light rain,-41.8697,-73.8203,Hotel Arena Gruesa
+56,Lebu,CL,51.44,clear sky,-37.6167,-73.65,Hostal Las Lilas
+66,Cape Town,ZA,53.11,fog,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+103,Hermanus,ZA,52.81,overcast clouds,-34.4187,19.2345,Misty Waves Boutique Hotel
+112,Prieska,ZA,55.47,clear sky,-29.6641,22.7474,Avenue GuestHouse
+122,Balezino,RU,53.49,overcast clouds,57.9796,53.0106,Dom Otdykha Lokomotivnykh Brigad
+134,Ambatofinandrahana,MG,52.23,clear sky,-20.55,46.8,TATAMO
+136,Ancud,CL,53.42,light rain,-41.8697,-73.8203,Hotel Arena Gruesa
+143,Lebu,CL,51.44,clear sky,-37.6167,-73.65,Hostal Las Lilas
+153,Cape Town,ZA,53.11,fog,-33.9258,18.4232,Southern Sun Waterfront Cape Town
+177,Bredasdorp,ZA,52.29,overcast clouds,-34.5322,20.0403,Bredasdorp Country Manor
+185,Bereznik,RU,54.37,broken clouds,62.8551,42.7072,"Dvina, Gostinitsa, Otel', Pribrezhnyy"
+186,Valparaiso,CL,55.04,mist,-33.0393,-71.6273,Hotel Ultramar
+225,Narsaq,GL,52.02,heavy intensity rain,60.9167,-46.05,Narsaq Kayak Hostel
+226,Kruisfontein,ZA,54.88,overcast clouds,-34.0033,24.7314,Oyster Bay House Rental
+237,Vicuna,CL,55.13,clear sky,-30.0319,-70.7081,Los Mosaicos
+354,Usinsk,RU,51.84,overcast clouds,65.9939,57.5281,Dobro Pozhalovaty
+375,Rawson,AR,54.91,clear sky,-43.3002,-65.1023,Hosteria Sampedro
+397,Vestmannaeyjar,IS,55.02,overcast clouds,63.4427,-20.2734,Glamping & Camping
+403,Karpogory,RU,53.37,clear sky,64.0019,44.4451,Hotel Pinezhskaya Sloboda
+415,Clarence Town,AU,54.86,overcast clouds,-32.5833,151.7833,River Downs Cottage
+436,Olafsvik,IS,55.71,broken clouds,64.8945,-23.7142,Hotel Olafsvik
+460,Comodoro Rivadavia,AR,53.46,clear sky,-45.8667,-67.5,Austral Hotel
+464,Lukovetskiy,RU,51.78,clear sky,64.2956,41.9211,Gostinitsa
+483,Usogorsk,RU,51.12,clear sky,63.4106,48.6872,"""Dom Invest - Kvartiry Posutochno"""
+500,Fundata,RO,55.89,clear sky,45.4367,25.2751,Resort EuroPark Fundata
+524,Belomorsk,RU,55.96,overcast clouds,64.5232,34.7668,Khostel Belomorsk
+580,Qaqortoq,GL,52.3,heavy intensity rain,60.7167,-46.0333,Hotel Qaqortoq
+584,Amot,NO,54.5,overcast clouds,59.5714,7.9877,Groven Camping og Hyttegrend AS
+600,Curanilahue,CL,54.63,scattered clouds,-37.4667,-73.35,Hotel Plaza los Leones
+638,Kuytun,RU,54.07,clear sky,54.3419,101.5036,Gostinitsa Tsentral'naya
+649,Qasigiannguit,GL,52.05,overcast clouds,68.8193,-51.1922,Hotel Diskobay
+668,Ngorongoro,TZ,52.72,scattered clouds,-3.2397,35.4875,Simba Special Campsite B
+723,Uyuni,BO,53.73,broken clouds,-20.4597,-66.825,Hostal La Magia de Uyuni
+739,Trelew,AR,55.62,clear sky,-43.249,-65.3051,Hotel Touring Club
+742,Traiguen,CL,51.04,few clouds,-38.25,-72.6833,Hospedaje Sonnia
+762,Verkhnyaya Salda,RU,51.75,few clouds,58.0456,60.5533,Квартира
