@@ -26,6 +26,8 @@ The overarching objectives and related deliverables for this analysis are the fo
 1. Weather data for 784 cities around the world stored in WeatherPy_Database.csv.
 2. Customer travel destinations map based on prefered tempreture between 50 to 56 fahrenheit degrees.
 
+![](analysis/PyBer_fare_summary.png)
 
 3. travel itinerary for selected cities in South Africa
 
+![](analysis/PyBer_fare_summary.png)
