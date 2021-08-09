@@ -30,4 +30,4 @@ The overarching objectives and related deliverables for this analysis are the fo
 
 3. travel itinerary for selected cities in South Africa
 
-![](analysis/PyBer_fare_summary.png)
+![](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
